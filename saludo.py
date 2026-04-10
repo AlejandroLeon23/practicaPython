@@ -3,6 +3,11 @@ def saludo():
 
 saludo()
 
+def saludo_chris():
+    print("Hola soy chris")
+    
+saludo_chris()
+
 def saludo_Silvia():
     print ("Hola soy Silvia")
 
